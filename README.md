@@ -13,4 +13,4 @@ Class Projects Listings:
 
 **Note:**
 
-You have to acknowledge if you use the code from this repo to work on the future class project, because of UVa Honor Code
+You have to acknowledge if you attempt to use code from this repo to work on the future class project, because of UVa Honor Code
